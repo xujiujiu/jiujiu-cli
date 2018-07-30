@@ -1,0 +1,14 @@
+{
+  "name": "jiujiucli",
+  "version": "1.0.0",
+  "description": "jiujiucli",
+  "main": "index.js",
+  "bin": {
+    "jiujiucli": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xujiujiu",
+  "license": "ISC"
+}
